@@ -25,7 +25,7 @@
 
 <div class="container">
     <div class="starter-template">
-        <h1>iHello, Jenkins X ServerLess! Please Watch PipelineActivities using Spring Boot</h1>
+        <h1>Hello, Jenkins X ServerLess #2! Please Watch PipelineActivities using Spring Boot</h1>
         <img border="0" src="https://jenkins-x.io/images/logo.png" width="300" height="300"/>
 		<p>
 			The example writes any PipelineActivites to the console. Use
